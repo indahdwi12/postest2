@@ -1,5 +1,3 @@
-# postest2
-
 print(20* "=")
 print("TOKO BAJU SEKOLAH")
 print(20* "=")
